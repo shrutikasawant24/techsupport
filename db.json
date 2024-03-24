@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "4186",
+      "name": "Rajkumar",
+      "email": "raj@gmail.com",
+      "password": "123323",
+      "type": "tech"
+    },
+    {
+      "id": "4187",
+      "name": "shrutika",
+      "email": "s@gmail.com",
+      "password": "123",
+      "type": "tech"
+    },
+    {
+      "id": "005a",
+      "name": "Raj",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "type": "admin"
+    },
+    {
+      "id": "005b",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "1233233443",
+      "type": "user"
+    },
+    {
+      "id": "ca9a",
+      "name": "pradip",
+      "email": "pradip@gmail.com",
+      "password": "12345",
+      "type": "user"
+    }
+  ],
+  "tickets": [
+    {
+      "problem": "header problem",
+      "supportid": "4186",
+      "usertid": "005b",
+      "status": "resolved",
+      "id": "c731"
+    },
+    {
+      "problem": "image problem",
+      "supportid": "4187",
+      "usertid": "005c",
+      "status": "in_progress",
+      "id": "7883"
+    },
+    {
+      "id": "82ed",
+      "problem": "loader",
+      "status": "pending",
+      "supportid": 0,
+      "usertid": "ca9a"
+    }
+  ]
+}
